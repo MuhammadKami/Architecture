@@ -1,0 +1,1 @@
+I designed and developed a responsive blog website using React.js and Tailwind CSS. The site features a clean, modern UI with reusable components, dynamic blog post rendering, and a mobile-friendly layout. Tailwind CSS was used for fast and efficient styling, ensuring consistency and responsiveness across all screen sizes.
